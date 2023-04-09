@@ -1,7 +1,7 @@
 flask
 joblib
-scikit-learn==1.2.2
-numpy
-streamlit
+nltk
 pandas
-RegexpTokenizer
+requests
+scikit-learn==1.2.2
+streamlit
